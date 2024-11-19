@@ -34,17 +34,17 @@ project-name/ ├── plans/ # Planos generales │ ├── paper_houses/ # 
 
 Todos los planos están organizados en la carpeta [`plans/`](plans/). Esto incluye:
 
-- [PLANTA_BAJA.jpg](plans/PLANTA_BAJA.jpg): Planta baja de la casa.
-- [PLANTA_NIVEL_274.jpg](plans/PLANTA_NIVEL_274.jpg): Segundo nivel de la vivienda (altura +2.74 metros).
-- [TECHO.jpg](plans/TECHO.jpg): Diseño de techos inclinados.
-- [PLANO_DE_SITIO.jpg](plans/PLANO_DE_SITIO.jpg): Plan general del sitio.
+- [PLANTA_BAJA.jpg](plans/sections/elevations/PLANTA_BAJA.jpg): Planta baja de la casa.
+- [PLANTA_NIVEL_274.jpg](plans/sections/elevations/PLANTA_NIVEL_274.jpg): Segundo nivel de la vivienda (altura +2.74 metros).
+- [TECHO.jpg](plans/sections/elevations/TECHO.jpg): Diseño de techos inclinados.
+- [PLANO_DE_SITIO.jpg](plans/sections/elevations/PLANO_DE_SITIO.jpg): Plan general del sitio.
 
 ### 🖼 Fachadas
 Las fachadas del proyecto están organizadas dentro de la carpeta [`plans/`](plans/):
-- [FACHADA_NORTE.jpg](plans/FACHADA_NORTE.jpg): Vista de la fachada norte.
-- [FACHADA_SUR.jpg](plans/FACHADA_SUR.jpg): Vista de la fachada sur.
-- [FACHADA_ESTE.jpg](plans/FACHADA_ESTE.jpg): Vista de la fachada este.
-- [FACHADA_OESTE.jpg](plans/FACHADA_OESTE.jpg): Vista de la fachada oeste.
+- [FACHADA_NORTE.jpg](plans/sections/elevations/FACHADA_NORTE.jpg): Vista de la fachada norte.
+- [FACHADA_SUR.jpg](plans/sections/elevations/FACHADA_SUR.jpg): Vista de la fachada sur.
+- [FACHADA_ESTE.jpg](plans/sections/elevations/FACHADA_ESTE.jpg): Vista de la fachada este.
+- [FACHADA_OESTE.jpg](plans/sections/elevations/FACHADA_OESTE.jpg): Vista de la fachada oeste.
 
 ### 🛠 Detalles
 Los detalles constructivos se encuentran en la carpeta [`sections/`](plans/sections/):
