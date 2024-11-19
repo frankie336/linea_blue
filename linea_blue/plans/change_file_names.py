@@ -8,7 +8,13 @@ file_rename_map = {
     "FACADE_WEST.jpg": "FACHADA_OESTE.jpg",
     "LEVEL_00.jpg": "PLANTA_BAJA.jpg",
     "ROOF.jpg": "TECHO.jpg",
-    "SITEPLAN.jpg": "PLANO_DE_SITIO.jpg"
+    "SITEPLAN.jpg": "PLANO_DE_SITIO.jpg",
+    "DETAIL_A.jpg": "DETALLE_A.jpg",
+    "DETAIL_B.jpg": "DETALLE_B.jpg",
+    "DETAIL_C.jpg": "DETALLE_C.jpg",
+    "DETAIL_D.jpg": "DETALLE_D.jpg",
+    "DETAIL_E.jpg": "DETALLE_E.jpg",
+    "LEVEL__274.jpg": "PLANTA_NIVEL_274.jpg",
 }
 
 # Rename files
