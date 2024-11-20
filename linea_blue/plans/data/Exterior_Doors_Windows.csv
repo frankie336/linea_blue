@@ -1,0 +1,13 @@
+ID,Type / Tipo,Location / Ubicación,Dimensions (m) / Dimensiones (m),Schematic File / Archivo del Esquema,Notes / Notas
+D1,Door / Puerta,North Elevation / Norte,1.2 x 2.2,FACHADA_NORTE.jpg,Main entrance / Entrada principal
+D2,Door / Puerta,West Elevation / Oeste,1.0 x 2.2,FACHADA_OESTE.jpg,"Secondary doorway, accessed via stairs / Puerta secundaria, accesible por escaleras"
+D3,Door / Puerta,South Elevation / Sur,1.0 x 2.2,FACHADA_SUR.jpg,Ground-level door / Puerta a nivel del suelo
+D4,Door / Puerta,South Elevation / Sur,1.0 x 2.2,FACHADA_SUR.jpg,Door accessed by external stairs / Puerta accesible por escaleras externas
+W1,Window / Ventana,North Elevation / Norte,1.5 x 1.8,FACHADA_NORTE.jpg,Large upper-level window / Ventana grande en el nivel superior
+W2,Window / Ventana,West Elevation / Oeste,1.0 x 1.2,FACHADA_OESTE.jpg,"Smaller window, upper level / Ventana pequeña en el nivel superior"
+W3,Window / Ventana,South Elevation / Sur,0.8 x 1.5,FACHADA_SUR.jpg,Narrow vertical window / Ventana vertical estrecha
+W4,Window / Ventana,South Elevation / Sur,1.5 x 1.2,FACHADA_SUR.jpg,"Horizontal window, upper level / Ventana horizontal en el nivel superior"
+W5,Window / Ventana,East Elevation / Este,1.5 x 1.8,FACHADA_ESTE.jpg,"Medium-sized window, main living area / Ventana de tamaño mediano, área principal"
+W6,Window / Ventana,East Elevation / Este,1.2 x 1.5,FACHADA_ESTE.jpg,"Smaller window, likely bedroom / Ventana pequeña, probablemente dormitorio"
+I1,External Cavity / Cavidad externa,North Elevation / Norte,2.0 x 1.5,FACHADA_NORTE.jpg,Recessed cavity / Cavidad empotrada
+I2,External Cavity / Cavidad externa,South Elevation / Sur,1.8 x 1.0,FACHADA_SUR.jpg,Continuation of basement recess / Continuación del espacio empotrado del sótano
